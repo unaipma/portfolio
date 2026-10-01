@@ -27,6 +27,28 @@
 
 ---
 
+## 💼 Work Experience
+
+### **Software Engineer / AI & Web Solutions** — [Hiberus](https://www.hiberus.com)
+*Logroño, Spain | February 2026 – June 2026*
+- Architected and implemented an enterprise-grade AI chatbot powered by Retrieval-Augmented Generation (RAG) to query corporate documentation repositories.
+- Integrated Large Language Models (LLMs) with Vector Databases to optimize semantic search, information retrieval, and trace analysis.
+- Evaluated output precision and response consistency, ensuring reliability of AI solutions for enterprise deployment.
+- Developed custom Drupal modules and automated business logic pipelines, improving operational workflows through Drupal ECA.
+
+### **Backend Developer** — Globant Gut
+*Logroño, Spain | February 2025 – June 2025*
+- Developed modular backend components and integrated third-party RESTful APIs to optimise database performance.
+- Collaborated with engineering teams using agile methodologies to produce clean, scalable code that supported project goals.
+- Engineered custom architectural and functional WordPress plugins tailored to client business specifications.
+
+### **Mobile QA Automation Tester** — Wunder App
+*Logroño, Spain | May 2024 – June 2024*
+- Executed automated testing on mobile applications across devices using Appium to enhance quality assurance.
+- Tracked, documented, and reported functional bugs and regressions, contributing to production release stability.
+
+---
+
 ## 🛠️ Core Stack
 
 - **Languages**: TypeScript, C# (.NET), PHP 8+, JavaScript, SQL
